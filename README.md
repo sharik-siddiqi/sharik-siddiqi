@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sharik Siddiqi
-- 👀 I’m interested in DL/ML with special emphasis on Computer Vision and NLP
+- 👀 I’m interested in DL/ML projects with special emphasis on Computer Vision and NLP
 - 🌱 I’m currently working as a Research Assistant in Computer Vision Group in Uni Siegen
 - 💞️ My areas of expertise include 3D/2D Computer Vision, NLP
 - 📫 You can email me - shariksiddiqi79@gmail.com
