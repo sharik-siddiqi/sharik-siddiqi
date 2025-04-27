@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Sharik Siddiqi
-- 👀 I’m interested in DL/ML projects with special emphasis on Computer Vision and NLP
-- 🌱 I’m currently working as a Research Assistant in Computer Vision Group in Uni Siegen
-- 💞️ My areas of expertise include 3D/2D Computer Vision, NLP
-- 📫 You can email me - shariksiddiqi79@gmail.com
+- 👀 I’m passionate about Deep Learning and Computer Vision
+- 🌱 I’m currently working as an AI Research Engineer at IAB Weimar, Germany
+- 💬 My research focuses on 2D/3D Computer Vision, Visual Scene Understanding, and Industrial AI Applications
+- 🛠️ Technologies I work with: Python, PyTorch, OpenCV, NVIDIA Jetson
+- 📚 Recent highlights: Oral presenter at GCPR 2023 | Developer of Smartfeeder (featured by MDR)
+- 📫 Feel free to reach out: shariksiddiqi79@gmail.com
 
 <!---
 sharik-siddiqi/sharik-siddiqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
